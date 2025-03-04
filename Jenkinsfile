@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DIRECTORY_PATH = "/path/to/code"
+        DIRECTORY_PATH = "/Users/Yasoob/Documents/professional development/JenkinsProject"
         TESTING_ENVIRONMENT = "Test-Env"
         PRODUCTION_ENVIRONMENT = "Yasoob"
     }
